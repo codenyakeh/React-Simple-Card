@@ -1,5 +1,5 @@
 import React from 'react'
-import bird from "./bird.jpg"
+
 
 function Image(props) {
   return (
